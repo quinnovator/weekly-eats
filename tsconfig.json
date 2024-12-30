@@ -1,0 +1,3 @@
+{
+  "extends": "@weekly-eats/typescript/base.json"
+}
